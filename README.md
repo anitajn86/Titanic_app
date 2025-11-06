@@ -1,0 +1,1 @@
+Deployment of a model to predict survival rate of passengers aboard the RMS Titanic using a titanic dataset from kaggle. My first deployed model of many.
